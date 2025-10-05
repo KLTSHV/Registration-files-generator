@@ -5,8 +5,8 @@
 #include <QString>
 #include <QTime>
 
-#include "structures.h"
-#include "generator.h"
+#include "structures/structures.h"
+#include "generator/generator.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {

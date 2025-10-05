@@ -1,0 +1,25 @@
+/build*/  
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# Qt автогенерация
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Бинарники
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.app
+*.DS_Store
